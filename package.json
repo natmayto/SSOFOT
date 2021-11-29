@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/natmayto/SSOFOT/issues"
   },
-  "homepage": "https://github.com/natmayto/SSOFOT#readme"
+  "homepage": "https://github.com/natmayto/SSOFOT#readme",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
 }
